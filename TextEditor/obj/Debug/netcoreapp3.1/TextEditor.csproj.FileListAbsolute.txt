@@ -11,3 +11,16 @@ C:\Development\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.CoreCompileI
 C:\Development\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.dll
 C:\Development\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.pdb
 C:\Development\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.genruntimeconfig.cache
+C:\Development\dotnet\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csprojAssemblyReference.cache
+C:\Development\dotnet\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfoInputs.cache
+C:\Development\dotnet\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfo.cs
+C:\Development\dotnet\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.CoreCompileInputs.cache
+C:\Development\dotnet\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.dll
+C:\Development\dotnet\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.pdb
+C:\Development\dotnet\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.exe
+C:\Development\dotnet\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.deps.json
+C:\Development\dotnet\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.json
+C:\Development\dotnet\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.dev.json
+C:\Development\dotnet\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.dll
+C:\Development\dotnet\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.pdb
+C:\Development\dotnet\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.genruntimeconfig.cache
